@@ -12,6 +12,8 @@ const LOCALES_ASSOCIATIONS = {
   'en-gb': 'en',
   'en-us': 'en',
   'en-ie': 'en',
+  'en-001': 'en',
+  'en-150': 'en',
   'es-es': 'es',
   'es-419': 'es',
   'fr-be': 'fr',
